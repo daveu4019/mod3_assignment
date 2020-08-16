@@ -1,0 +1,235 @@
+body {
+  font-size: 16px;
+  /** color: #fff; */
+  background-color: gray;
+  font-family: Arial;
+  width: 100%
+}
+/** Header Start */
+#UBDClogo-img {
+	background: url('../images/UBDC FINAL LOGO 250x123.jpg') no-repeat;
+	width: 250px;
+	height: 123px;
+	margin: 25px;
+}
+.navbar {
+	border-bottom:3px solid #fff;
+}
+.container, .navbar-header {
+    max-width: 100%;
+    padding: 0;
+    margin: 0;
+	} 
+
+.navbar-brand {
+	margin-left: 25px;
+	font-size: 2rem;
+	font-style: bold;
+}
+.nav-link {
+	margin-left: 25px;
+	color: white;
+}
+.nav-link:hover {
+	color: #fff;}
+}
+/*.navbar-toggler {
+    margin-right: 25px;
+	background-color: gray;
+    border: 3px solid white;
+    padding: 1px;
+    height: 30px:
+    width: 30px;
+    margin-right: 25px;
+}
+ .navbar-toggler, .icon-bar {
+  display: block;
+  width: 30px;
+  height: 10px;
+  background-color: #cccccc;
+  border-radius: 1px;
+ } */
+
+/**@media (min-width: 100px) {
+	.container, .navbar {
+    max-width: 100%;
+    padding: 0;
+    margin: 0;
+	}
+}
+@media (min-width: 1200px) {
+	.container, .navbar {
+    max-width: 100%;
+    padding: 0;
+    margin: 0;
+	}
+}
+@media (min-width: 992px) and (max-width: 1199px){
+	.container, .navbar {
+    max-width: 100%;
+    padding: 0;
+    margin: 0;
+	}
+}
+@media (min-width: 768px) and (max-width: 991px){
+	.container, .navbar {
+    max-width: 100%;
+    padding: 0;
+    margin: 0;
+	}
+	.navbar-toggler {
+	background-color:  gray;
+	}
+}
+@media (min-width: 577px) and (max-width: 767px) {
+	.container, .navbar {
+    max-width: 100%;
+    padding: 0;
+    margin: 0;
+	}
+}
+@media (min-width: 400px) and (max-width: 576px) {
+	.container, .navbar {
+    max-width: 100%;
+    padding: 0;
+    margin: 0;
+	}
+}
+@media (min-width: 1px) and (max-width: 399px)  {
+	.container, .navbar {
+    max-width: 100%;
+    padding: 0;
+    margin: 0;
+	}
+}
+*/
+/*.navbar-header button.navbar-toggler, .navbar-header .icon-bar {
+  border: 1px solid #61122f;
+}
+*/
+
+#navbar .container {
+	width: 100%;
+	margin: 0 0 0 0;
+}
+
+#navbar-header.navbar.navbar-default {
+	width: 100%;
+	padding: 0 0 0 0;
+	margin: 0 0 0 0;
+}
+	
+#container h1{
+	background-color: blue;
+	margin: 0 0 0 0;
+	width: 100%;
+	/*text-align: left; */
+} 
+/*Header Name*/
+/* #navbar-brand  h1{  
+  font-family: Arial;
+  color: red;
+  font-size: 1.5em;
+  float: left;
+  /*text-transform: uppercase; 
+  font-weight: bold;
+  text-shadow: 1px 1px 1px #222;
+  margin-top: 0;
+  margin-bottom: 0;
+  line-height: 1; 
+} */
+
+/*.navbar-brand h1{
+	color: #ffffff;
+	margin-top: 0px;
+	margin-bottom: 0px;
+	text-align: left;
+	float: left;
+	width: 100%;
+} */
+
+h2 {
+	color: blue;
+	margin-top: 15px;
+	margin-bottom: 0px;
+	text-align: center;
+}
+
+h3 {
+	color: black;
+	text-align: center;
+	margin-bottom: 25px;
+}
+
+h4 {
+	color: blue;
+	margin-bottom: 25px;
+}
+
+p {
+	color: black;
+	margin: 25px;
+	text-align: justify;
+}
+/*#header-nav {
+	background-color: blue;
+	text-align: left;	*/
+}
+
+/*a {
+	color: white;
+	font-size: 1.5em;
+	text-align: center;
+} */
+/*.navbar-header {
+	background-color: blue;
+} */
+
+.navbar-header a {
+	font-size: 2em;
+	background-color: blue;
+}
+
+.navbar-default .navbar-brand {
+	background-color: blue;
+	color: white;
+}
+
+/*.navbar-default .navbar-nav .active a {
+}
+
+/*.navbar-brand a {
+	color: yellow;
+} */
+.container {
+	background-color: blue;
+	width: 100%;
+}
+
+ul.aboutlist {
+    color: #fff;
+    text-align: center;
+    list-style-type: none;
+    padding: 0;
+}
+.navbar-dark .navbar-toggler {
+	margin-right: 25px;
+	border-color: white;
+}
+
+/*Footer-Styling*/
+#footer {
+  position: absolute;
+  bottom: 0;
+  width: 100%;
+  height: 2.5rem;            /* Footer height */
+}
+.panel-footer {
+	padding: 25px;
+}
+.panel-footer, .text-center {
+	background-color: #61122f;
+	color: white;
+}
+
+
